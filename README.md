@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Ugokams/frontend-mentor-project/blob/master/blog-preview-card/index.html
-- Live Site URL: https://ugokams.github.io/frontend-mentor-project/ 
+- Solution URL: https://github.com/Ugokams/blog-preview-card
+- Live Site URL: https://ugokams.github.io/blog-preview-card/
 
 ## My process
 
